@@ -7,7 +7,7 @@ class Baraja
   attr_accessor :cartas
 
   #se inicializa con un arreglo vacío (opción personal, para evitar errores)
-  def initialize(cartas=[])
+  def initialize
     @cartas = cartas
   end
 
