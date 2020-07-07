@@ -8,7 +8,7 @@ class Baraja
 
   #se inicializa con un arreglo vacío (opción personal, para evitar errores)
   def initialize
-    @cartas = cartas
+    @cartas = []
   end
 
   #se sigue la "línea" del desafío anterior (con respecto a las pintas y números de cartas)
