@@ -21,6 +21,6 @@ cartas1=[]
   cartas1 << Carta.new( Random.rand(1..13), ["C","D", "E", "T"].sample)
 end
 
-puts cartas1
+#puts cartas1
 
 
