@@ -65,7 +65,7 @@ class Insecto < Animal
 end
 
 #Se agregan los métodos a las subclases. 
-#No sé si están bien todas, pero por falta de conocimiento en animales
+#No sé si están bien todas, pero por falta de conocimiento en animales :D
 
 class Pinguino < Ave
   include Habilidades::Nadador
